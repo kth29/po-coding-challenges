@@ -46,6 +46,7 @@ public class ReorderDigits {
 			reordered.add(sortedNum);
 
 		}
+		//return reordered ArrayList
 		return reordered;
 	}
 
